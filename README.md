@@ -8,4 +8,6 @@ NO CSS done on this (missing) I just used the most basic HTML necessary to test 
 I used [sololearn](https://www.sololearn.com/es/) as online editor and interpreter. 
 
 ## To Do 
-- Hacer las partes de HTML y CSS
+- Código CSS
+- Limpiar JS (eliminar console.log)
+- COMENTAR
