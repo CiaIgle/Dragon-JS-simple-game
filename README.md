@@ -1,4 +1,4 @@
-# Dragon Hunt (a simple JS game)
+# Dragon Repeller (a simple RPG JS game)
 As part of my training as a FullStack developer I followed the YT tutorial [Full Stack Web Development for Beginners (Full Course on HTML, CSS, JavaScript, Node.js, MongoDB)](https://www.youtube.com/watch?v=nu_pCVPKzTk&t=14959s) I only did the first JS part.
 
 ## Warning
